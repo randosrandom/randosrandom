@@ -13,6 +13,6 @@ I am a Mathematical Engineering student at Politecnico di Milano, with specializ
 
 
 :loudspeaker: **Contacts:**
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/randeep-singh-3595a2209)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/randeep-singh-3595a2209)
 - `randeep.singh@mail.polimi.it`
 
