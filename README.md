@@ -9,6 +9,7 @@ I am a Mathematical Engineering student at Politecnico di Milano, with specializ
 :pushpin: **Projects:**
 - [Space4AI](https://github.com/randosrandom/Space4AI)
 - [MLMCMC](https://github.com/randosrandom/MLMCMC_Project)
+- [SCT-Challenges](https://github.com/randosrandom/SCT-Challenges)
 - [ANN-Challenges](https://github.com/randosrandom/ANN-Challenges)
 
 
