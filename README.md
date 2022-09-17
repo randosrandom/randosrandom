@@ -1,6 +1,6 @@
 ### Hi there, I am Randeep 👋
 
-I am a Mathematical Engineering student at Politecnico di Milano, with specialization in Statistical Learning  and a strong interest in High Performance computing.
+I am a Mathematical Engineering student at Politecnico di Milano, with specialization in Statistical Learning.
 
 :mortar_board: **Education:**
  - Master of Science in Mathematical Engineering at `Politecnico di Milano`
